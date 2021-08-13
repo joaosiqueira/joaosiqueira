@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/joaosiqueira">
-  <img align="center" src="https://github.joaosiqueira.vercel.app/api?username=joaosiqueira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="João Siqueira's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosiqueira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="João Siqueira's github stats" />
 </a>
 <!--
 **joaosiqueira/joaosiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
