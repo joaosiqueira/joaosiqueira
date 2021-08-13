@@ -1,5 +1,5 @@
 <a href="https://github.com/joaosiqueira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosiqueira&show_icons=true&include_all_commits=true&theme=vue-dark" alt="João Siqueira's github stats" width="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosiqueira&show_icons=true&include_all_commits=true&theme=vue-dark" alt="João Siqueira's github stats" width="1500"/>
 </a>
 
 <!-- <a href="https://github.com/joaosiqueira">
